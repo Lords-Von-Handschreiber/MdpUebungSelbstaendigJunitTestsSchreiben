@@ -1,6 +1,9 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+target/
+*~
+\#*\#
+*.swp
+nbproject
+.DS_Store
+.classpath
+.project
+.settings/
